@@ -8,8 +8,7 @@ Title: Boozy Henry
 <br>
 This is a HTML + CSS responsive designe website.
 ---
-W3 Nu HTML Checker
-![](Html_Checker.png)
+![W3 Nu HTML Checker](Html_Checker.png)
 ---
 Screen Shots:<br>
 Index page
