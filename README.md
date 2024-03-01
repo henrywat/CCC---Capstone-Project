@@ -5,10 +5,14 @@ Create Career College - Web Development Capstone Project
 
 ## Tutor: Alan Jones<br>
 ## Submission Date: 27 Aug 2023
+
+### Technology:
+- HTML
+- CSS
 ---
 
 ### Title: Boozy Henry
-<p>This is a HTML + CSS responsive designe website.</p>
+<p>This is a responsive designe website.</p>
 ---
 
 ![W3 Nu HTML Checker](Html_Checker.png)
