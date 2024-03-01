@@ -9,10 +9,12 @@ Create Career College - Web Development Capstone Project
 ### Technology:
 - HTML
 - CSS
+  
 ---
 
 ### Title: Boozy Henry
 <p>This is a responsive designe website.</p>
+
 ---
 
 ![W3 Nu HTML Checker](Html_Checker.png)
