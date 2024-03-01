@@ -23,12 +23,17 @@ Create Career College - Web Development Capstone Project
 
 ### Screen Shots:
 
+<p>Index</p>
 ![Index page](/pages/index.png)
 
+<p>About</p>
 ![About page](/pages/about.png)
 
+<p>Menu</p>
 ![Menu page](/pages/menu.png)
 
+<p>Gallery</p>
 ![Gallery page](/pages/gallery.png)
 
+<p>Contact</p>
 ![Contact page](/pages/contact.png)
