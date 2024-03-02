@@ -21,19 +21,25 @@ Create Career College - Web Development Capstone Project
 
 ---
 
-### Screen Shots:
-
 ## [Index page](/pages/index.png)
 ![Index page](/pages/index.png)
 
-[About page](/pages/about.png)
+---
+
+## [About page](/pages/about.png)
 ![About page](/pages/about.png)
 
-[Menu page](/pages/menu.png)
+---
+
+## [Menu page](/pages/menu.png)
 ![Menu page](/pages/menu.png)
 
-[Gallery page](/pages/gallery.png)
+---
+
+## [Gallery page](/pages/gallery.png)
 ![Gallery page](/pages/gallery.png)
 
-[Contact page](/pages/contact.png)
+---
+
+## [Contact page](/pages/contact.png)
 ![Contact page](/pages/contact.png)
