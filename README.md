@@ -23,7 +23,7 @@ Create Career College - Web Development Capstone Project
 
 ### Screen Shots:
 
-[Index page](/pages/index.png)
+## [Index page](/pages/index.png)
 ![Index page](/pages/index.png)
 
 [About page](/pages/about.png)
